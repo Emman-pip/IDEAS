@@ -12,12 +12,20 @@
       + Drone Aerial Mapping that uses sensors to analyze the soil, monitor crop health, etc.
       + the drone will be coupled with a computer software that will use data to analyze trends in a specific area to help with land use planning, harvest planning, etc.
 ** public figures profiling system
-    - PROBLEM: corruption and incompetency in the government and other public offices
+    - PROBLEM: corruption and incompetency in the government and other public offices (people vote without thinking)
     - SOLUTION:
       + increase the awareness of the public and transparency
-      + will use a system that will "rate" politicians based on their track records and recent deeds, will use deep learning anf other technologies to improve accuracy, up-to-date information, and interactiveness
+      + will use a system that will "rate" politicians based on data (their track records and other activities), will use deep learning anf other technologies to improve accuracy, up-to-date information, and interactiveness
 ** metropolitan companion app
     - PROBLEM: sophisticated metropolitan lifestyle
     - SOLUTION:
       + creating an integrated system that will help metropolitans to keep track of trivial stuff such as TODOs, work schedules, sleep schedules, optimal traffic routes, etc.
       + will use deep learning to learn about the users' habits, preferences, and propose routine optimization.
+** centralized traffic control system with deep learning
+    - PROBLEM: traffic getting worse through the years
+    - SOLUTION:
+      + creating advanced deep-learning traffic systems that will efficiently manage traffic
+      + a centralized traffic control system that will control multiple traffic lights in an area for greater traffic control
+      + the traffic control system will prioritize keeping the traffic flow smooth, and will utilize algorithms that will help in determining the most optimal way of dealing with a traffic situation
+      + the system will also learn from data for improved performance
+** 
