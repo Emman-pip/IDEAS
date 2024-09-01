@@ -1,6 +1,6 @@
 * Ideas
 ** AI-powered learning companion
-    - PROBLEM: Lack of utilization of AI in education (and quality of education decreasing)
+    - PROBLEM: Lack of utilization of AI in education (and decreasing quality of education)
     - SOLUTION:
       + empower students to learn at home
       + An AI-enabled software that uses smartphone cameras to collect data and interactively teach students
@@ -24,8 +24,7 @@
 ** centralized traffic control system with deep learning
     - PROBLEM: traffic getting worse through the years
     - SOLUTION:
-      + creating advanced deep-learning traffic systems that will efficiently manage traffic
+      + creating an advanced deep-learning traffic systems that will efficiently manage traffic
       + a centralized traffic control system that will control multiple traffic lights in an area for greater traffic control
       + the traffic control system will prioritize keeping the traffic flow smooth, and will utilize algorithms that will help in determining the most optimal way of dealing with a traffic situation
       + the system will also learn from data for improved performance
-** 
